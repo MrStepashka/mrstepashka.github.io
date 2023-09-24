@@ -1,0 +1,28 @@
+.main_logo{
+    width: 100px;
+    height: 100px;
+}
+
+.our_footer{
+    width: 1471.2px;
+    height: 150px;
+    background-color: aliceblue;
+    text-align: right
+}
+
+.height_main_section{
+    height: 1000px;
+}
+
+.block_title{
+    text-align: center;
+}
+
+.title_div{
+    background: linear-gradient(45deg, white, rgb(170, 170, 170));
+}
+
+.mcrsrv_img{
+    height: 640px;
+    background: url(../img/blog-microservices-architecture-when-to-use-them-1.png) center/cover no-repeat;
+}
